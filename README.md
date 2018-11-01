@@ -2,8 +2,6 @@
 
 This is the first file in the repo.
 
-##Ipsum Below
+##My website
 
-Lorem ipsum bollocks
-
-wah more shit!!
+Good shit
